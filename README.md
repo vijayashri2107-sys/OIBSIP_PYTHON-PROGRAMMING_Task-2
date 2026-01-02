@@ -26,6 +26,11 @@ Outcome in Brief :
 * The program generates secure random passwords
 * User-defined password criteria are supported
 * Helps users create strong and safe passwords.
+  
+VIDEO LINK:
 
+https://github.com/user-attachments/assets/c9add88e-1d66-4835-a0bf-e86544d1b8d5
+ 
+VIDEOl
 
 https://github.com/user-attachments/assets/cdfb5585-28f6-4926-8804-fdbfd7f63e30
